@@ -1,5 +1,8 @@
 # Поиск аномалий
 
+Запускалова Дарья 11-009
+Кургускина Софья 11-004
+
 ## Видео с защитой проекта: 
 https://drive.google.com/file/d/11OMlFRZHfrCG9e3uiVnRwHfNlKSf8Xpf/view?usp=sharing
 
