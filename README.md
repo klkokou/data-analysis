@@ -1,6 +1,14 @@
 # Поиск аномалий
 
-Данные для проекта взяты с Kaggle https://www.kaggle.com/datasets/zhonglifr/thyroid-disease-unsupervised-anomaly-detection
+## Видео с защитой проекта: 
+https://drive.google.com/file/d/11OMlFRZHfrCG9e3uiVnRwHfNlKSf8Xpf/view?usp=sharing
+
+## Google Collab:
+https://colab.research.google.com/drive/1wxQp4jYmg7grIazaHmjSLqcJq51oPHMG?usp=sharing
+
+## Датасет:
+https://www.kaggle.com/datasets/zhonglifr/thyroid-disease-unsupervised-anomaly-detection
+
 ## Содержание
 Проект состоит из Exploratory Data Analysis(EDA), в котором мы оцениваем распределение данных в текущем наборе данных, влияние атрибутов на целевую переменную.
 Далее мы применяем алгоритмы поиска аномалий без учителя(представлены ниже).
